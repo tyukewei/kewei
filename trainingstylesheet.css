@@ -101,7 +101,7 @@ button:hover{
 
 
 /*Responsive navigation expander*/
-@media screen and (min-width:601px){
+@media screen and (min-width:301px){
         
     .sidenav {
         height: 100%;
@@ -226,7 +226,7 @@ button:hover{
 }
 
 /*Responsive navigation expander*/
-@media screen and (max-width:600px){
+@media screen and (max-width:300px){
     button{
         margin-top: 0.8rem;
         padding: 15px 25px;
